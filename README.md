@@ -1,7 +1,7 @@
 # Arvind Srinivasan
 
 <div style="width:100%;height:0;padding-bottom:120%;position:relative;">
-  <iframe src="https://giphy.com/embed/JR7iS0j2YwfW9mopu3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <img src="https://giphy.com/embed/JR7iS0j2YwfW9mopu3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div>
 <p><a href="https://giphy.com/gifs/PLCnext-plcnext-plcnexttechnology-iamplcnext-JR7iS0j2YwfW9mopu3">via GIPHY</a></p>
 
 ## 💻 Tech Stack:
