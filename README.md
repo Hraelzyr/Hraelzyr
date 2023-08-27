@@ -18,7 +18,7 @@
 ## GitHub activity:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hraelzyr&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hraelzyr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hraelzyr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## 📫 Contact me :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-srinivas4n/)
