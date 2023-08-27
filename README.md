@@ -1,5 +1,4 @@
-### Hi there 👋
-# Niraj Kumar
+# Arvind Srinivasan
 
 ![Intro Banner](https://giphy.com/stickers/PLCnext-plcnext-plcnexttechnology-iamplcnext-JR7iS0j2YwfW9mopu3)
 
