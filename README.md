@@ -1,7 +1,7 @@
 # Arvind Srinivasan
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/JR7iS0j2YwfW9mopu3" width="50%" height="50%" frameBorder="0" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p3bm1oMnhpYjQ0cmRyOWhqdnF3eTJ0cW8wc29veWlzc3NjcGF5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50%" height="50%" frameBorder="0" />
 </div>
 
 ## 💻 Tech Stack:
