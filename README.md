@@ -5,11 +5,11 @@
 
 -   I’m [Arvind Srinivasan](https://github.com/Hraelzyr)
 -   Currently a third year B.Tech CSE student at IIT Tirupati [Dec 2021 - 2025]
--   Writing a game in Rust, and it's got an older version in C++.
+-   Writing a game in [Rust](https://github.com/Hraelzyr/helene-rust), and it's got an older version in [C++](https://github.com/Hraelzyr/Helene).
 -   Worked on ML and its associated systems in an internship at IISc.
--   Wrote an interpreter for a subset of Lua a while back, as part of a team.
--   Working on [naev](https://github.com/naev/naev).
--   Wrote an android app as part of a team
+-   Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua a while back, as part of a team.
+-   Working on [Naev](https://github.com/naev/naev).
+-   Wrote an [Android app](https://github.com/Navknight/OceanView) as part of a team
 -   Working on a smart laundry system as part of a team
 
 ## 💻 Tech Stack:
@@ -21,9 +21,6 @@
 
 (Yeah I don't have much in the way of social media 😙)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hraelzyr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
--->
 ## 😅 The state of my code, sometimes
 
 <div id="header">
