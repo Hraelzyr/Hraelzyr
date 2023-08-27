@@ -1,6 +1,8 @@
 # Arvind Srinivasan
 
-<div style="width:100%;height:0;padding-bottom:120%;position:relative;"><iframe src="https://giphy.com/embed/JR7iS0j2YwfW9mopu3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PLCnext-plcnext-plcnexttechnology-iamplcnext-JR7iS0j2YwfW9mopu3">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:120%;position:relative;">
+  <iframe src="https://giphy.com/embed/JR7iS0j2YwfW9mopu3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<p><a href="https://giphy.com/gifs/PLCnext-plcnext-plcnexttechnology-iamplcnext-JR7iS0j2YwfW9mopu3">via GIPHY</a></p>
 
 ## 💻 Tech Stack:
 ![Rust]() ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
