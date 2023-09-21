@@ -1,9 +1,5 @@
-# Arvind Srinivasan
-
-
 ## About Me 👋
 
--   I’m [Arvind Srinivasan](https://github.com/Hraelzyr)
 -   Currently a third year B.Tech CSE student at IIT Tirupati [Dec 2021 - 2025]
 -   Writing a game in [Rust](https://github.com/Hraelzyr/helene-rust), and it's got an older version in [C++](https://github.com/Hraelzyr/Helene).
 -   Worked on ML and its associated systems in an internship at IISc.
