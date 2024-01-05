@@ -6,7 +6,9 @@
 -   Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua a while back, as part of a team.
 -   Working on [Naev](https://github.com/naev/naev).
 -   Wrote an [Android app](https://github.com/Navknight/OceanView) as part of a team
--   Working on a smart laundry system as part of a team
+-   Wrote an [containerised ML deployment service](https://github.com/Aeromaster213/swe-web-app) as part of a team.
+-   Modified the NachOS kernel to add a variety of features from demand paging to message passing, as done [here](https://github.com/Hraelzyr/tribble-of-death).
+-   Working on a smart laundry system as part of a team.
 
 ## 🗣️ Languages and Tools:
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
