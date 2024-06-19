@@ -1,6 +1,6 @@
 ## About Me 👋
 
--   Currently a third year B.Tech CSE student at IIT Tirupati [Dec 2021 - 2025]
+-   Currently a fourth year B.Tech CSE student at IIT Tirupati [Dec 2021 - 2025]
 -   Writing a game in [Rust](https://github.com/Hraelzyr/helene-rust), and it's got an older version in [C++](https://github.com/Hraelzyr/Helene).
 -   Worked on ML and its associated systems in an internship at IISc.
 -   Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua a while back, as part of a team.
