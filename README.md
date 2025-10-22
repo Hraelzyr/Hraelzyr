@@ -28,7 +28,8 @@
 ## 🏆 Achievements & Honors
 -   **President's Prize (Valedictorian)**, IIT Tirupati
 -   **Institute Prize (B.Tech CSE Stream Topper)**, IIT Tirupati
--   Awarded for Academic Excellence (stream topper) in 2021, 2022, 2023 and 2024.
+-   Awarded for Academic Excellence (stream topper) in 2022, 2023 and 2024.
+-   Awarded for second-highest overall CGPA in 2021.
 -   **Kishore Vaigyanik Protsahan Yojana (KVPY)** Scholar (AIR 81)
 -   NTSE Scholar since 2019
 -   Topped NPTEL "Natural Language Processing" MOOC (Top 5%)
