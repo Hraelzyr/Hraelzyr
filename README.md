@@ -26,9 +26,11 @@
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🏆 Achievements & Honors
--   **President's Prize (Valedictorian)**, IIT Tirupati (2021-2025 Batch)
+-   **President's Prize (Valedictorian)**, IIT Tirupati
 -   **Institute Prize (B.Tech CSE Stream Topper)**, IIT Tirupati
+-   Awarded for Academic Excellence (stream topper) in 2021, 2022, 2023 and 2024.
 -   **Kishore Vaigyanik Protsahan Yojana (KVPY)** Scholar (AIR 81)
+-   NTSE Scholar since 2019
 -   Topped NPTEL "Natural Language Processing" MOOC (Top 5%)
 
 ## GitHub activity:
