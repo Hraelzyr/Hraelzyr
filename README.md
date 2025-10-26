@@ -16,6 +16,7 @@
 
 -   **Kernel Development:** Modified the NachOS kernel to add a variety of features from [demand paging to message passing](https://github.com/Hraelzyr/tribble-of-death).
 -   **Compiler Design:** Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua, as part of a team.
+-   **Processor Design:** Developed an ARM-inspired processor design as part of a course project in IITT, as part of a team.
 
 ## 🗣️ Languages and Tools:
 
