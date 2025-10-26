@@ -8,8 +8,8 @@
 
 -   **B.Tech Thesis (RL):** Developed **CARD**, a novel reinforcement learning algorithm that replaces policy gradient with cross-entropy matching on reference distributions to achieve superior sample efficiency, matching or exceeding SAC on MuJoCo tasks.
 -   **IISc Research (Constrained RL):** Explored a novel critic-actor approach for constrained RL, proving its viability in Safety-Gym's navigation environments.
--   **IISc Research (ML Systems):** Delivered a novel I/O framework to optimize **federated ML training** in HPC environments by avoiding network bottlenecks.
--   **Adversarial ML:** Worked on an adversarial attack against **Vision Transformers** on ImageNet, improving attack success by >3%.
+-   **IISc Research (ML Systems):** Delivered a novel I/O framework to optimize **federated ML training** in HPC environments by using LD_PRELOAD to intercept `read()` syscalls in order to avoid network bottlenecks.
+-   **Adversarial ML:** Worked on improving an adversarial attack against **Vision Transformers** on ImageNet, improving attack success by >3%.
 -   **MLOps:** Wrote a [containerised ML deployment service](https://github.com/Aeromaster213/swe-web-app) (video transcription) as part of a team, using an all-OSS stack (Docker, Whisper, Fairseq).
 
 ### 💻 Other Key CS Projects
