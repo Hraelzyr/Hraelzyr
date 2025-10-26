@@ -1,7 +1,7 @@
 ## About Me 👋
 
 -   Currently pursuing my M.S. in Computer Science at **UT Austin**.
--   Graduated from **IIT Tirupati** with a B.Tech in CSE (Minor in AI) as the **President's Prize Winner (Valedictorian)** (9.66/10 CGPA).
+-   Graduated from **IIT Tirupati** with a B.Tech in CSE (Minor in AI) as the **President's Prize Winner (Valedictorian)** across all branches (9.66/10 CGPA).
 -   My interest is in **Reinforcement Learning**, especially as applied to deep learning, generative AI and robotics.
 
 ### 🤖 AI/ML Research & Project Highlights
