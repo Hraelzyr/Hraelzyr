@@ -34,10 +34,6 @@
 -   NTSE Scholar since 2019
 -   Topped NPTEL "Natural Language Processing" MOOC (Top 5%)
 
-## GitHub activity:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hraelzyr&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## 📫 Contact me :
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-srinivas4n/)
