@@ -10,7 +10,7 @@
 -   **IISc Research (Constrained RL):** Explored a novel critic-actor approach for constrained RL, proving its viability in Safety-Gym's navigation environments.
 -   **IISc Research (ML Systems):** Delivered a novel I/O framework to optimize **federated ML training** in HPC environments by using LD_PRELOAD to intercept `read()` syscalls in order to avoid network bottlenecks.
 -   **Adversarial ML:** Worked on improving an adversarial attack against **Vision Transformers** on ImageNet, improving attack success by >3%.
--   **MLOps:** Wrote a [containerised ML deployment service](https://github.com/Aeromaster213/swe-web-app) (video transcription) as part of a team, using an all-OSS stack (Docker, Whisper, Fairseq).
+-   **MLOps:** Wrote a [containerised audio/video transcription service](https://github.com/Aeromaster213/swe-web-app) using ML as part of a team, using an all-OSS stack (Docker, Whisper, Fairseq).
 
 ### 💻 Other Key CS Projects
 
