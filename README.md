@@ -6,7 +6,7 @@
 
 ### 🤖 AI/ML Research & Project Highlights
 
--   **B.Tech Thesis (RL):** Developed **CARD**, a novel reinforcement learning algorithm that replaces policy gradient with cross-entropy matching to achieve superior sample efficiency, matching or exceeding SAC on MuJoCo tasks.
+-   **B.Tech Thesis (RL):** Developed **CARD**, a novel reinforcement learning algorithm that replaces policy gradient with cross-entropy matching on reference distributions to achieve superior sample efficiency, matching or exceeding SAC on MuJoCo tasks.
 -   **IISc Research (Constrained RL):** Explored a novel critic-actor approach for constrained RL, proving its viability in Safety-Gym's navigation environments.
 -   **IISc Research (ML Systems):** Delivered a novel I/O framework to optimize **federated ML training** in HPC environments by avoiding network bottlenecks.
 -   **Adversarial ML:** Worked on an adversarial attack against **Vision Transformers** on ImageNet, improving attack success by >3%.
@@ -15,7 +15,7 @@
 ### 💻 Other Key CS Projects
 
 -   **Kernel Development:** Modified the NachOS kernel to add a variety of features from [demand paging to message passing](https://github.com/Hraelzyr/tribble-of-death).
--   **Compiler Design:** Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua a while back, as part of a team.
+-   **Compiler Design:** Wrote an [interpreter](https://github.com/Hraelzyr/SpeakingLua) for a subset of Lua, as part of a team.
 
 ## 🗣️ Languages and Tools:
 
